@@ -1,6 +1,6 @@
 global.bankname = "MONIEPOINT"
 
-global.banknumber = "2349160733571"
+global.pairingnumber = "2349160733571"
 
 global.botnumber = ["2349160733571"]
 global.domain  =  "https://.nobodysey.me"
