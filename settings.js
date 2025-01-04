@@ -1,9 +1,9 @@
 global.bankname = "MONIEPOINT"
 
-global.banknumber = "8133729715"
+global.banknumber = "2349160733571"
 
-global.bankowner = "FADARE"
-
+global.botnumber = ["2349160733571"]
+global.domain  =  "https://.nobodysey.me"
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.wlcm = true
